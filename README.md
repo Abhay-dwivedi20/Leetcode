@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Abhay-dwivedi20/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Abhay-dwivedi20/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abhay-dwivedi20/Leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Abhay-dwivedi20/Leetcode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhay-dwivedi20/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Abhay-dwivedi20/Leetcode/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhay-dwivedi20/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Abhay-dwivedi20/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Abhay-dwivedi20/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Abhay-dwivedi20/Leetcode/tree/master/0066-plus-one) |
 ## Matrix
 |  |
 | ------- |
